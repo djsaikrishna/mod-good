@@ -1,15 +1,15 @@
 # REQUIRED CONFIG
-BOT_TOKEN = ""
-OWNER_ID = 0
-TELEGRAM_API = 0
-TELEGRAM_HASH = ""
+BOT_TOKEN = "8553034706:AAHgN1Unp5xUy7mN5gnlCK9m2KzQWoTs0P8"
+OWNER_ID = 2094128105
+TELEGRAM_API = 15882573
+TELEGRAM_HASH = "dddd64edfc5326e4a35e448347b83e2d"
 # OPTIONAL CONFIG
 TG_PROXY = {}
 USER_SESSION_STRING = ""
 CMD_SUFFIX = ""
 AUTHORIZED_CHATS = ""
 SUDO_USERS = ""
-DATABASE_URL = ""
+DATABASE_URL = "mongodb+srv://prabhas:Bigass6969@cluster0.zftppou.mongodb.net/?appName=Cluster0"
 DATABASE_NAME = "mltb"
 STATUS_LIMIT = 4
 DEFAULT_UPLOAD = "rc"
@@ -64,7 +64,7 @@ USENET_SERVERS = [
 HYDRA_IP = ""
 HYDRA_API_KEY = ""
 # Update
-UPSTREAM_REPO = ""
+UPSTREAM_REPO = "https://github.com/anasty17/mirror-leech-telegram-bot"
 UPSTREAM_BRANCH = "master"
 # Leech
 LEECH_SPLIT_SIZE = 0
